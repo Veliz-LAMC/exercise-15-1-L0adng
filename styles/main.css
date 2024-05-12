@@ -188,10 +188,10 @@ article img {
 
 @keyframes moveAndAlternate{
  from {
-	transform: translate(0, 0);
+	transform: translate(0, 0) scale(1);
 }
 to {
-	transform: translate(100px, 20px);
+	transform: translate(100px, 20px) scale(1.4);
  }
 }
 aside img {
