@@ -172,7 +172,7 @@ footer p {
 }
 
 aside img {
-	transition: transform 2s;
+	/*transition: transform 2s;*/
 }
 aside img:hover {
 	transform: translate(100px,20px);
