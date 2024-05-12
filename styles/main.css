@@ -178,11 +178,11 @@ aside img:hover {
 	transform: translate(100px,20px);
 }
 
-.article-img{
+.article-image {
 	transition: transform 3s;
 	transform-origin: top left;
 }
-.article-img {
+.article-image {
 	transform: rotate(720deg);
 }
 
