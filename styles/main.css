@@ -185,3 +185,19 @@ article img {
 article img {
 	transform: rotate(720deg);
 }
+
+@keyframes moveAndAlternate{
+ from {
+	transform: translate(0, 0);
+}
+to {
+	transform: translate(100px, 20px);
+ }
+}
+aside img {
+	animation-name: moveAndAlternate;
+	animation-delay: 2s;
+	animation-duration: 3s;
+	animation-iteration-count: 2;
+	animation-direction: alternate;
+}
