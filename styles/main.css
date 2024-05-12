@@ -180,6 +180,7 @@ aside img:hover {
 
 article img {
 	transition: transform 3s;
+	transform-origin: top left;
 }
 article img {
 	transform: rotate(720deg);
