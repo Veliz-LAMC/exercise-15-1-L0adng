@@ -177,3 +177,10 @@ aside img {
 aside img:hover {
 	transform: translate(100px,20px);
 }
+
+article img {
+	transition: transform 3s;
+}
+article img {
+	transform: rotate(720deg);
+}
