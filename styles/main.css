@@ -186,7 +186,7 @@ aside img:hover {
 	transform: rotate(720deg);
 }
 
-@keyframes moveAndAlternate{
+@keyframes moveAndAlternate {
  from {
 	transform: translate(0, 0) scale(1);
 }
